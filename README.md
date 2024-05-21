@@ -27,12 +27,14 @@ Csv File - https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-
 Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/data-cleaning-bigbasket-entire-product-list.ipynb
 
 
+
 # 4). Sales Conversion Optimization
 
 
 Csv File - https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
   
 Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/sales-conversion-optimization.ipynb
+
 
 
 # 5). Employee Attrition
@@ -43,6 +45,7 @@ Csv File - https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attriti
 Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/employee-attrition.ipynb
 
 
+
 # 6). Turkish Market Sales Dataset With 9.000+Items 
 
 
@@ -51,20 +54,23 @@ Csv File - https://www.kaggle.com/datasets/omercolakoglu/turkish-market-sales-da
 Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/turkish-market-sales.ipynb
 
 
+
 # 7). Data Professionals Salary - 2022
 
 
 Csv File - https://www.kaggle.com/datasets/iamsouravbanerjee/analytics-industry-salaries-2022-india
   
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/my-project-data-professionals-salary-2022.ipynb
 
 
-# 8). Banking Dataset - Marketing Targets
+
+# 8). 
 
 
-Csv File - https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets
+Csv File - 
   
 Cleaning Data - 
+
 
 
 # 9). NIFTY-50 Stocks Dataset
@@ -72,16 +78,17 @@ Cleaning Data -
 
 Csv File - https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset
   
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/my-project-nifty-50-stocks.ipynb
 
 
 
-# 10). Marketing Campaign
+# 10). 
 
 
-Csv File - https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
+Csv File - 
   
 Cleaning Data - 
+
 
 
 # 11). AMEX, NYSE, NASDAQ stock histories
@@ -89,7 +96,7 @@ Cleaning Data -
 
 Csv File - https://www.kaggle.com/datasets/qks1lver/amex-nyse-nasdaq-stock-histories
 
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/my-project-amex-nyse-nasdaq-stock.ipynb
 
 
 # 12). E-Commerce Sales Dataset
@@ -97,7 +104,7 @@ Cleaning Data -
 
 Csv File - https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/my-project-e-commerce-sales.ipynb
 
 
 
@@ -106,7 +113,7 @@ Cleaning Data -
 
 Csv File - https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020
 
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/my-project-restaurant-business-rankings-2020.ipynb
 
 
 
