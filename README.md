@@ -15,7 +15,7 @@ Cleaning Data - https://www.kaggle.com/code/barirahzainal/data-cleaning-customer
 
 Csv File - https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?select=2020-Feb.csv
 
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/data-cleaning-ecommerce-events-history-cosmetics.ipynb
 
 
 
@@ -24,7 +24,7 @@ Cleaning Data -
 
 Csv File - https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints
   
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/data-cleaning-bigbasket-entire-product-list.ipynb
 
 
 # 4). Sales Conversion Optimization
@@ -32,7 +32,7 @@ Cleaning Data -
 
 Csv File - https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
   
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/sales-conversion-optimization.ipynb
 
 
 # 5). Employee Attrition
@@ -40,7 +40,7 @@ Cleaning Data -
 
 Csv File - https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data
   
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/employee-attrition.ipynb
 
 
 # 6). Turkish Market Sales Dataset With 9.000+Items 
@@ -48,7 +48,7 @@ Cleaning Data -
 
 Csv File - https://www.kaggle.com/datasets/omercolakoglu/turkish-market-sales-dataset-with-9000items
   
-Cleaning Data - 
+Cleaning Data - https://github.com/shasha0982/Data-Cleaning/blob/main/turkish-market-sales.ipynb
 
 
 # 7). Data Professionals Salary - 2022
